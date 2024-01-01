@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/CherrySwash-Regular.ttf",
+      "sha1": "9fe1fc9470ec9ac1c02604c1c9810d6f3e7b4c01"
+    },
+    {
+      "path": "assets/fonts/Karla-Regular.ttf",
+      "sha1": "ced42259c9a4635b123be76f4ba77144c1fef573"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/RubikDoodleTriangles-Regular.ttf",
+      "sha1": "2fc1befc41353c68568e035f8e8f0e1ac9b2ff8f"
+    }
+  ]
+}
