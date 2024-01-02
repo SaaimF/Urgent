@@ -2,10 +2,14 @@
  * @format
  */
 
-import {AppRegistry} from 'react-native';
+import {AppRegistry, Touchable} from 'react-native';
 import App from './App';
 import {name as appName} from './app.json';
-import Login from './Login';
-import Drawer from './Drawer';
+import Login from './src/screeens/Login';
+import Route from './src/routes';
+import Home from './Tes';
+import ToggleScreen from './Tes';
+import TwoScreensInOne from './Tes';
+import TwoSliderScreens from './Tes';
 
-AppRegistry.registerComponent(appName, () => Drawer);
+AppRegistry.registerComponent(appName, () => Route);
